@@ -165,6 +165,6 @@ Script Link: [https://github.com/mdMandoinfo/Check-Internet-Connection-using-jav
 [issues-url]: https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript/issues
 [license-shield]: https://img.shields.io/github/license/mdMandoinfo/Check-Internet-Connection-using-javascript.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[linkedin-url]: https://twitter.com/in/mdMandoinfo
+[linkedin-url]: https://twitter.com/mdMandoinfo
 [screenshot-online]: images/screenshot_online.png
 [screenshot-offline]: images/screenshot_offline.png
