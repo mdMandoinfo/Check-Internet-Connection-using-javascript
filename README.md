@@ -6,7 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
 
 
 
@@ -132,17 +132,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -164,7 +153,7 @@ Script Link: [https://github.com/mdMandoinfo/Check-Internet-Connection-using-jav
 [issues-shield]: https://img.shields.io/github/issues/Check-Internet-Connection-using-javascript.svg?style=for-the-badge
 [issues-url]: https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript/issues
 [license-shield]: https://img.shields.io/github/license/mdMandoinfo/Check-Internet-Connection-using-javascript.svg?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[linkedin-url]: https://twitter.com/mdMandoinfo
+[twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
+[twitter-url]: https://twitter.com/mdMandoinfo
 [screenshot-online]: images/screenshot_online.png
 [screenshot-offline]: images/screenshot_offline.png
