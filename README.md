@@ -6,7 +6,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -165,7 +164,6 @@ Script Link: [https://github.com/mdMandoinfo/Check-Internet-Connection-using-jav
 [issues-shield]: https://img.shields.io/github/issues/Check-Internet-Connection-using-javascript.svg?style=for-the-badge
 [issues-url]: https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript/issues
 [license-shield]: https://img.shields.io/github/license/mdMandoinfo/Check-Internet-Connection-using-javascript.svg?style=for-the-badge
-[license-url]: https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mdMandoinfo
 [screenshot-online]: images/screenshot_online.png
