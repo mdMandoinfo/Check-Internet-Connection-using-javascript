@@ -152,7 +152,6 @@ Script Link: [https://github.com/mdMandoinfo/Check-Internet-Connection-using-jav
 [stars-url]: https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Check-Internet-Connection-using-javascript.svg?style=for-the-badge
 [issues-url]: https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript/issues
-[license-shield]: https://img.shields.io/github/license/mdMandoinfo/Check-Internet-Connection-using-javascript.svg?style=for-the-badge
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/mdMandoinfo
 [screenshot-online]: images/screenshot_online.png
