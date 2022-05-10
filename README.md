@@ -68,7 +68,9 @@
 
 ### Built With
 
-* [PHP](https://php.com)
+* JS
+* CSS
+* HTML
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
