@@ -17,9 +17,9 @@
     <img src="https://avatars.githubusercontent.com/u/91418066?v=4" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Check-Internet-Connection-using-javascript</h3>
+<h3 align="center">Check Internet Connection using javascript</h3>
   <p align="center">
-    Check-Internet-Connection-using-javascript
+    Check Internet Connection using javascript
     by this smiple script.
     <br />
     <a href="https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript/blob/main/docs.md"><strong>Explore the docs »</strong></a>
