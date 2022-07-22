@@ -135,7 +135,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-[@mdMandoinfo](https://twitter.com/mdMandoinfo) - info.mdMando@gmail.com
+[@mdMandoinfo](https://twitter.com/mdMandoinfo) - <a href = "mailto: info.mdMando@gmail.com">Send Email</a>
 
 Script Link: [https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript](https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript)
 
