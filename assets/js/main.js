@@ -1,4 +1,4 @@
-let title = document.querySelector('.tittle');
+let title = document.querySelector('.title');
 let ul = document.querySelector('ul');
 let reload = document.querySelector('.reload');
 
