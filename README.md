@@ -135,7 +135,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-[@mdMandoinfo](https://twitter.com/mdMandoinfo) - Discord: mdMandoinfo#9819
+[@mdMandoinfo](https://twitter.com/mdMandoinfo) - Discord: **mdMandoinfo#9819**
 
 Script Link: [https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript](https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript)
 
