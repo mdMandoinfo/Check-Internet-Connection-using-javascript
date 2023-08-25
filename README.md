@@ -132,11 +132,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-[@mdMandoinfo](https://twitter.com/mdMandoinfo) - Discord: **mdMandoinfo#9819**
-
 Script Link: [https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript](https://github.com/mdMandoinfo/Check-Internet-Connection-using-javascript)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
